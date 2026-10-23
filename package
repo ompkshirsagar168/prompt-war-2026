@@ -1,0 +1,7 @@
+{
+  "name": "kavachgrid-ai-demo",
+  "version": "2.5.0",
+  "private": true,
+  "description": "Cold-chain telemetry security validation demo",
+  "scripts": { "test": "node --test" }
+}
